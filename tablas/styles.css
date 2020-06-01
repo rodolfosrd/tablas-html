@@ -1,0 +1,141 @@
+.contenido{
+	background-color: #ececec;
+	width: 1005px;
+	line-height: 100px;
+	font-size: 40px;
+	text-align: center;
+	border: rgb(252, 7, 7) 5px solid;
+}
+.nav{
+	width: 1000px;
+	height: 107px;
+	border: rgb(51, 8, 240) 3px solid;
+}
+.box1{
+	background-color: #0a0908;
+	height: 100px;
+	float: left;
+	width: 190px;
+	text-align: center;
+	color: white;
+	border: rgb(7, 252, 60) 2px solid;
+	
+}
+.box2{
+	background-color: #0a0908;
+	height: 100px;
+	float: left;
+	width: 198px;
+	text-align: center;
+	color: white;
+	border: rgb(7, 252, 60) 2px solid;
+}
+.box3{
+	background-color: #0a0908;
+	height: 100px;
+	float: left;
+	width: 195px;
+	text-align: center;
+	color: white;
+	border: rgb(7, 252, 60) 2px solid;
+}
+.box4{
+	background-color:#0a0908;
+	height: 100px;
+	float: left;
+	width: 195px;
+	text-align: center;
+	color: white;
+	border: rgb(7, 252, 60) 2px solid;
+}
+.box5{
+	background-color: #0a0908;
+	height: 100px;
+	float: left;
+	width: 200px;
+	text-align: center;
+	color: white;
+	border: rgb(7, 252, 60) 2px solid;
+}
+
+.header{
+	width: 1000px;
+	height: 300px;
+	border: rgb(93, 7, 252) 3px solid;
+	
+}
+.banner{
+	background-color: white;
+	float: left;
+	width: 790px;
+	height: 297px;
+	border: rgb(7, 252, 60) 3px solid;
+}
+.logo{
+	background-color: #0a0908;
+	color: white;
+	width: 200px;
+	height: 96px;
+	float: left;
+	border: rgb(7, 252, 60) 2px solid;
+}
+.login{
+	background-color: #0a0908;
+	color: white;
+	width: 200px;
+	height: 96px;
+	float: left;
+	border: rgb(7, 252, 60) 2px solid;
+}
+.form{
+	background-color: #0a0908;
+	color: white;
+	width: 200px;
+	height: 96px;
+	float: left;
+	border: rgb(7, 252, 60) 2px solid;	
+}
+
+.main{
+	width: 1000px;
+	height: 500px; 
+	border: rgb(23, 7, 252) 3px solid;
+	
+}
+.asidel{
+	background-color:black;
+	float: left;
+	width: 200px;
+	height: 499px;
+	color: white;
+	border: rgb(7, 252, 60) 2px solid;
+}
+.article{
+	background-color:#0a0908;
+	float: left;
+	width: 490px;
+	height: 499px;
+	color: white;
+	border: black 1px solid;
+	border: rgb(7, 252, 60) 2px solid;
+}
+.asider{
+	background-color:#0a0908;
+	float: right;
+	width: 297px;
+	height: 499px;
+	color: white;
+	border: black 1px solid;
+	border: rgb(7, 252, 60) 2px solid;
+}
+.footer{
+	background-color:#0a0908;
+	float: right;
+	width: 1000px;
+	height: 80px;
+	color: white;
+	border: black 1px solid;
+	
+	border: rgb(23, 7, 252) 3px solid;
+	border: rgb(252, 7, 7) 5px solid;
+}
